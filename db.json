@@ -1,16 +1,13 @@
 {
-  "posts":[
+  "sites": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "name": "RMIT tested",
+      "leaderName": "dat@gmail.com",
+      "latitude": 10.729797114977998,
+      "longitude": 106.69305905699728,
+      "totalVolunteers": 1,
+      "amountOfPeopleTested": 18,
+      "id": "xI9G6tDwQRVwZVe5g5Dt0q6SZfo2"
     }
   ]
 }
