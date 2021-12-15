@@ -1,13 +1,40 @@
 {
   "sites": [
   {
-    "id": "hPVk1R7MlNeJyKRZeCfdPoDPuEE2",
     "name": "RMIT Tested Site",
     "leaderName": "nhat@gmail.com",
     "latitude": 10.72967589053005,
     "longitude": 106.69334035366775,
+    "totalVolunteers": 3,
+    "amountOfPeopleTested": 18,
+    "id": "hPVk1R7MlNeJyKRZeCfdPoDPuEE2"
+  },
+  {
+    "name": "The Seventh Bar Tested Site",
+    "leaderName": "test03@gmail.com",
+    "latitude": 10.726768136287774,
+    "longitude": 106.69385701417923,
+    "totalVolunteers": 2,
+    "amountOfPeopleTested": 40,
+    "id": "0U2RSxzx6PN7gsMk6fi9vr4dEoh1"
+  },
+  {
+    "id": "VzwtN6QatmNQy3OsYTJAiH1nrl32",
+    "name": "Sky Garden 3 Site",
+    "leaderName": "test04@gmail.com",
+    "latitude": 10.734492877855237,
+    "longitude": 106.70605670660734,
     "totalVolunteers": 0,
     "amountOfPeopleTested": 0
+  },
+  {
+    "name": "Police Tested Site",
+    "leaderName": "test05@gmail.com",
+    "latitude": 10.734947462040719,
+    "longitude": 106.69702436774969,
+    "totalVolunteers": 1,
+    "amountOfPeopleTested": 0,
+    "id": "MFOysaFIqla8NcDCSytdqH3kU7w1"
   }
   
   ]
