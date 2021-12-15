@@ -35,6 +35,15 @@
     "totalVolunteers": 1,
     "amountOfPeopleTested": 0,
     "id": "MFOysaFIqla8NcDCSytdqH3kU7w1"
+  },
+  {
+    "id": "a62SBqfqYffEDYRsq2xaZ8WxUCJ2",
+    "name": "Bach Mai Hospital",
+    "leaderName": "test01@gmail.com",
+    "latitude": 21.00063152998838,
+    "longitude": 105.84532912820579,
+    "totalVolunteers": 0,
+    "amountOfPeopleTested": 0
   }
   
   ]
