@@ -1,5 +1,14 @@
 {
   "sites": [
+  {
+    "id": "hPVk1R7MlNeJyKRZeCfdPoDPuEE2",
+    "name": "RMIT Tested Site",
+    "leaderName": "nhat@gmail.com",
+    "latitude": 10.72967589053005,
+    "longitude": 106.69334035366775,
+    "totalVolunteers": 0,
+    "amountOfPeopleTested": 0
+  }
   
   ]
 }
